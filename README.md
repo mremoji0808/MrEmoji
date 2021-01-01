@@ -6,8 +6,6 @@ I am just a noob coder, coding for fun.
   <img align="center" alt="MrEmoji's github stats" width="50%"src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
 </a>
 
----
-
 <h3>Languages and Tools</h3>
 <p>
 	<a href="https://code.visualstudio.com/">
@@ -32,5 +30,7 @@ I am just a noob coder, coding for fun.
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
 </p>
+
+---
 
 **© [MrEmoji0808](https://github.com/mremoji0808)**
