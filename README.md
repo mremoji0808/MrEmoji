@@ -1,12 +1,11 @@
 # Hello, Welcome to MrEmoji Github
 I am just a noob coder, coding for fun.
 
-<details>
+
 <a>
   <img align="center" alt="MrEmoji's github stats" width="50%"src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
 </a>
 ---
-</details>
 
 <h3>Languages and Tools</h3>
 <p>
