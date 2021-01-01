@@ -28,5 +28,5 @@ I am just a noob coder, coding for fun.
 
 ---
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
+  <img align="right" alt="MrEmoji's github stats" width="50%"src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
 </a>
