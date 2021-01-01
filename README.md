@@ -1,8 +1,9 @@
 # Hello, Welcome to MrEmoji Github
 I am just a noob coder, coding for fun.
 
+<details>
 <a>
-  <img align="right" alt="MrEmoji's github stats" width="50%"src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
+  <img align="center" alt="MrEmoji's github stats" width="50%"src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
 </a>
 
 <h3>Languages and Tools</h3>
@@ -30,4 +31,4 @@ I am just a noob coder, coding for fun.
 	</a>
 </p>
 
----
+</details>
