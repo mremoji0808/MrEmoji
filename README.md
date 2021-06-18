@@ -1,12 +1,11 @@
 # Hello, Welcome to MrEmoji Github
 I am just a noob coder, coding for fun.
 
-I own a discord bot call [TAIL]("https://top.gg/bot/744518712891015228").
+
 
 
 
 <a>
-<img width="150" height="150" align="left" style="static: left; margin: 0 10px 0 0;" alt="TAIL" src="https://i.imgur.com/3Og2ThY.png"> 
   <img align="center" alt="MrEmoji's github stats" width="50%"src="https://github-readme-stats.vercel.app/api?username=mremoji0808&show_icons=true&theme=onedark" />
 </a>
 
