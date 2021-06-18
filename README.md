@@ -20,6 +20,9 @@ I am just a noob coder, coding for fun.
 	<a href="https://www.javascript.com/" target="_blank"> 
   		<code><img src="https://i.imgur.com/3u1wzwE.png" alt="JavaScript" width="40" height="40"/></code>
 	</a> 
+	<a href="https://www.typescriptlang.org/" target="_blank"> 
+  		<code><img src="https://i.imgur.com/vSgFULR.png" alt="JavaScript" width="40" height="40"/></code>
+	</a> 
 	<a href="https://nodejs.org" target="_blank"> 
   		<code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
 	</a>  
